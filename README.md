@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1> 
   <img src="./logo.png" alt="nmkill logo" width="40" height="40" style="vertical-align: middle; margin-right: 10px;">
   nmkill
 </h1>
@@ -19,14 +19,13 @@ Install nmkill with a single command:
 ```bash
 curl -fsSL https://nmkill.sattwik.com/install.sh | bash
 ```
-
 This script will download the latest version of nmkill and install it on your system.
+
 ## Usage
 Run GoNpKill in your terminal:
 ```bash
 nmkill
 ```
-
 - Use arrow keys to navigate the list of node_modules directories
 - Press Enter to select a directory for deletion
 - Press q or Ctrl+C to exit
@@ -41,8 +40,8 @@ If you prefer to build from source:
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ## Acknowledgments
-- Inspired by the original npkill project
-- Built with Bubble Tea, Bubbles, and Lipgloss
+- Inspired by the original [npkill](https://npkill.js.org/) project
+- Built with [Bubble Tea](https://github.com/charmbracelet/bubbletea), [Bubbles](https://github.com/charmbracelet/bubbles), and [Lipgloss](https://github.com/charmbracelet/lipgloss)
