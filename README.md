@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./logo.png" alt="nmkill logo" width="100" height="100">
+</p>
+
 # nmkill
 
 nmkill is a fast, efficient CLI tool for finding and removing `node_modules` directories, inspired by npkill but written in Go.
